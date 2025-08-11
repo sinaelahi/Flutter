@@ -77,7 +77,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // than having to individually change instances of widgets.
     return Scaffold(
     body: Center(
-      child: Text("SElma"),
+      child: Text("ben burdayim"),
     ),
     );
   }
